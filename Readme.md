@@ -1,4 +1,6 @@
-# Medical Data History - SQL Analysis Project
+# Medical Data History Analysis (SQL Analysis Project)
+
+# Note: This project uses synthetic/sample data for educational and portfolio purposes.
 
 # Author: Ajith Kumar JE
 # Datebase: MySQL
